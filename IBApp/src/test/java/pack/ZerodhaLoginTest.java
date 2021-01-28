@@ -35,7 +35,7 @@ WebDriver driver;
 	@Test
 	public void buyShare()
 	{
-		System.out.println("Login Successfull");
+		System.out.println("Logged into Zerodha");
 	}
 	@AfterMethod
 	public void logout() throws InterruptedException
